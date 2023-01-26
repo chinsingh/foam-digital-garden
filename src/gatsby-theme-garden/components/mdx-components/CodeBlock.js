@@ -7,8 +7,9 @@ import okaidia from "prism-react-renderer/themes/okaidia"
 require("prismjs/components/prism-java")
 
 export default ({ children, className }) => {
+  if(className){
   const language = className.replace(/language-/, "")
-
+  
   return (
     <Highlight
       {...defaultProps}
@@ -29,4 +30,5 @@ export default ({ children, className }) => {
       )}
     </Highlight>
   )
+}
 }
