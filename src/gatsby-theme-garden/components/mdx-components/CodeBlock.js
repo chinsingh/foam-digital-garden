@@ -8,7 +8,7 @@ require("prismjs/components/prism-java")
 
 export default ({ children, className }) => {
   const language = className.replace(/language-/, "")
-
+  
   return (
     <Highlight
       {...defaultProps}
