@@ -1,0 +1,12 @@
+# Riders (Top-ups)
+
+These are extra coverage given along with the base policy with some extra premium.
+
+You can take the following riders:
+
+- [[Accidental Disability]]
+- [[Critical Illness]]
+
+⚠ **Do check for the terms and conditions carefully if and when you opt for riders.**
+
+![Terms and Conditions Apply](library/attachments/2022-04-10-13-34-59.png)
