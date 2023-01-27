@@ -9,10 +9,15 @@
 ## Health and Fitness
 
 - Workouts - my current [[Workout Routine]] | [[Beginner Gym Rings Exercises]]
-- My current [[Diet]]
+- My current [[Diet]]. Also my [[Oats smoothie]] recipe.
 
 ## Social Studies
 
+### Economics
+
+- [[Quantitative Easing (QE)]]
+- [[Tapering]]
+  
 ### Linguistics
 
 - Sanskrit
