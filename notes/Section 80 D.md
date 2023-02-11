@@ -3,7 +3,7 @@
 ### along with 80U
 💡 D for Doctor. 80D has all the medical related deductions.
 
--   Mediclaim/[[Health insurance]] Tax benefits u/s 80D
+-   Mediclaim/[[Health Insurance]] Tax benefits u/s 80D
     
     ![[Pasted image 20220415175737.png]]
     The medicine and health check-up costs can be claimed but it should be under the maximum limit.

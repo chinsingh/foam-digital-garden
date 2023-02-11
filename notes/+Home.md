@@ -12,7 +12,7 @@
 
 ### [[100 Music]]
 
-### [[200 Graphic Design]]
+### [[200 Design]]
 
 ### [[300 Science MOC]]
 

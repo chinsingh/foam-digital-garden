@@ -18,10 +18,6 @@ When a subclass inherits a superclass, all protected and public fields and metho
 
 Private fields and methods of the superclass can never be referenced directly by subclasses. They can, however, be referenced indirectly via methods reachable from the subclass (e.g default (package), protected and public methods).
 
-## Purpose
-
-- Code reuse
-
 ## Types of Inheritance
 
 - [[Single Inheritance]]

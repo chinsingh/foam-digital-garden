@@ -71,6 +71,7 @@
 ## Software Architecture
 
 - [[Architecture]] | [[Design]] | [[Pattern]]
+- [[same-same-but-different classes]]
 - [[Architecture Style]]
   - [[Monolothic Architecture]]
   - [[Microservices]] Architecture
@@ -89,11 +90,11 @@
         - [[Backdoor Injection]]
     - [[Structural Design Pattern]]
     - [[Behavioural Design Pattern]]
-  - [[Data Access Object]]
-  - [[Marker Interface]]
-  - [[Strategy Pattern]]
+      - [[Data Access Object]]
+      - [[Marker Interface]]
+      - [[Strategy Pattern]]
 - [[Architecture Style, Architecture Pattern and Design Pattern are just different levels of abstraction]]
-- Design Principles - [[DRY]] | [[SOLID]] | [[Inversion of Control (IoC)]] | [[Do NOT create Dependency(s), especially in a constructor]] | [[Law of Demeter or Principle of Least Knowledge]] | [[Don't dig too deep in chain calls]]
+- Design Principles - [[DRY]] | [[SOLID]] | [[Inversion of Control (IoC)]] | [[Do NOT create Dependency(s), especially in a constructor]] | [[Law of Demeter or Principle of Least Knowledge]] | [[Don't dig too deep in chain calls]] | [[a principle is just in principle]]
 
 ### System Design (High-level)
 
@@ -192,10 +193,6 @@
 - [[Hashing]]
   - [[Rehashing]]
   - [[Consistent Hashing]]
-
-## UI/UX design
-
-- [[Perceived Performance]] | [[Improving Percieved Performance]]
 
 ### References
 
