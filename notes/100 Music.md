@@ -6,7 +6,7 @@
 
 ## Instruments
 
-- Guitar: [Guitar chord charts and scale modes](../attachments/guitar-chord-charts-and-scale-modes.pdf)
+- Guitar: [Guitar chord charts and scale modes](https://github.com/chinsingh/notes/raw/main/attachments/guitar-chord-charts-and-scale-modes.pdf)
 
 ## Songwriting and composing
 
