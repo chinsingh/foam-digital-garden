@@ -8,6 +8,14 @@
 - [[Scalable]] business
 - [[Generic Business Process]]
 
+## Social Media
+
+- [[Carousel Script Template]]
+
+## Legal
+
+- [[Business Entities]]: [[Sole Proprietorship]] | [[Partnership Firm]] | [[Private Limited]] | [[Limited Liability Partnership (LLP)]]
+
 ## Marketing
 
 - [[Network Effect]]
