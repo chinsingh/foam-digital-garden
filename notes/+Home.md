@@ -24,7 +24,7 @@
 
 ---
 
-### [[500 Personal Finance MOC]]
+### [[500 Finance MOC]]
 
 ### [[600 Hooman Skills MOC]]
 
