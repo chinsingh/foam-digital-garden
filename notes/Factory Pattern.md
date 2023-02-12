@@ -10,7 +10,7 @@
 
 - Testability advantage
 
-    Offers a single point of injection for [[Test double]]s in unit tests and integration/system tests
+    Offers a single point of injection for [[Test Double]]s in unit tests and integration/system tests
 
 - Create the Interface and multiple implementation of same interface.
 - Factory method - used to hide the logic of object creation  - loose coupling and high cohesion
