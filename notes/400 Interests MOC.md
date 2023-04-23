@@ -9,6 +9,7 @@
 ## Health and Fitness
 
 - Workouts - my current [[Workout Routine]] | [[Beginner Gym Rings Exercises]]
+- [[12-24 Months Gym Routine]]
 - My current [[Diet]]. Also my [[Oats smoothie]] recipe.
 
 ## Social Studies
@@ -43,6 +44,11 @@
 [Beginner Gym Rings Exercises]: <Beginner Gym Rings Exercises.md> "Beginner Gym Rings Exercises"
 [Diet]: Diet.md "Diet"
 [Oats smoothie]: <Oats smoothie.md> "Oats smoothie Recipe"
+[Typescale]: Typescale.md "Typescale"
+[Monochromatic Pallet]: <Monochromatic Pallet.md> "Monochromatic Pallet"
+[Analogous Pallet]: <Analogous Pallet.md> "Analogous Pallet"
+[Complimentary Pallet]: <Complimentary Pallet.md> "Complimentary Pallet"
+[Triadic Pallet]: <Triadic Pallet.md> "Triadic Pallet"
 [Quantitative Easing (QE)]: <Quantitative Easing (QE).md> "Quantitative Easing (QE)"
 [Tapering]: tapering.md "Tapering"
 [Sanskrit as an Interface]: <Sanskrit as an Interface.md> "Sanskrit as an Interface"

@@ -85,22 +85,6 @@
   - [[Microservices]] Architecture
 - [[Architecture Pattern]]
 - [[Design Pattern]]
-  - [[GoF Design Pattern]]
-    - [[Creational Design Pattern]]s
-      - [[Singleton]]
-      - [[Factory Pattern]]: [[Object Factory]] | [[Factory Pattern using Friend class]]
-      - [[Builder Method]]
-      - [[Dependency Injection]] and [[Inversion of Control (IoC)]]
-        - [[Dependency]]
-        - [[Constructor Injection]]
-        - [[Setter Injection]]
-        - [[Parameter Injection]]
-        - [[Backdoor Injection]]
-    - [[Structural Design Pattern]]
-    - [[Behavioural Design Pattern]]
-      - [[Data Access Object]]
-      - [[Marker Interface]]
-      - [[Strategy Pattern]]
 - [[Architecture Style, Architecture Pattern and Design Pattern are just different levels of abstraction]]
 - Design Principles - [[DRY]] | [[SOLID]] | [[Inversion of Control (IoC)]] | [[Do NOT create Dependency(s), especially in a constructor]] | [[Law of Demeter or Principle of Least Knowledge]] | [[Don't dig too deep in chain calls]] | [[a principle is just in principle]]
 
@@ -260,11 +244,15 @@
 [Regression Testing]: <Regression Testing.md> "Regression Testing"
 [Black Box Testing]: <Black Box Testing.md> "Black Box Testing"
 [Test Double]: <Test Double.md> "Test Double"
-[Seam]: ../Seam.md "Seam"
-[Test Isolation]: <../Test Isolation.md> "Test Isolation"
+[Seam]: Seam.md "Seam"
+[Test Isolation]: <Test Isolation.md> "Test Isolation"
+[How to ensure test isolation]: <How to ensure test isolation.md> "How to ensure test isolation"
 [Bug]: Bug.md "Bug"
 [Regression]: Regression.md "Regression"
 [Failure]: Failure.md "Failure"
+[Version Control]: <Version Control.md> "Version Control System (VCS)"
+[Stages of a file in git]: <Stages of a file in git.md> "Three stages of a file in git"
+[Stages of a git project]: <Stages of a git project.md> "Stages of a git project"
 [Architecture]: Architecture.md "Architecture"
 [Design]: Design.md "Design"
 [Pattern]: Pattern.md "Pattern"
@@ -274,27 +262,10 @@
 [Microservices]: Microservices.md "Microservices"
 [Architecture Pattern]: <Architecture Pattern.md> "Architecture Pattern"
 [Design Pattern]: <Design Pattern.md> "Design Pattern"
-[GoF Design Pattern]: <GoF Design Pattern.md> "GoF Design Pattern"
-[Creational Design Pattern]: <Creational Design Pattern.md> "Creational Design Pattern"
-[Singleton]: Singleton.md "Singleton"
-[Factory Pattern]: <Factory Pattern.md> "Factory Method"
-[Object Factory]: <Object Factory.md> "Object Factory"
-[Factory Pattern using Friend class]: <Factory Pattern using Friend class.md> "Factory Pattern using Friend class"
-[Builder Method]: <Builder Method.md> "Builder Method"
-[Dependency Injection]: <Dependency Injection.md> "Dependency Injection"
-[Inversion of Control (IoC)]: <Inversion of Control (IoC).md> "Inversion of Control (IoC)"
-[Constructor Injection]: <Constructor Injection.md> "Constructor Injection"
-[Setter Injection]: <Setter Injection.md> "Setter Injection"
-[Parameter Injection]: <Parameter Injection.md> "Parameter Injection"
-[Backdoor Injection]: <Backdoor Injection.md> "Backdoor Injection"
-[Structural Design Pattern]: <Structural Design Pattern.md> "Structural Design Pattern"
-[Behavioural Design Pattern]: <Behavioural Design Pattern.md> "Behavioural Design Pattern"
-[Data Access Object]: <Data Access Object.md> "Data Access Object"
-[Marker Interface]: <Marker Interface.md> "Marker Interface"
-[Strategy Pattern]: <Strategy Pattern.md> "Strategy Pattern"
 [Architecture Style, Architecture Pattern and Design Pattern are just different levels of abstraction]: <Architecture Style, Architecture Pattern and Design Pattern are just different levels of abstraction.md> "Architecture Style, Architecture Pattern and Design Pattern are just different levels of abstraction"
 [DRY]: DRY.md "DRY"
 [SOLID]: SOLID.md "SOLID"
+[Inversion of Control (IoC)]: <Inversion of Control (IoC).md> "Inversion of Control (IoC)"
 [Do NOT create Dependency(s), especially in a constructor]: <Do NOT create Dependency(s), especially in a constructor.md> "Do NOT create Dependency(s), especially in a constructor"
 [Law of Demeter or Principle of Least Knowledge]: <Law of Demeter or Principle of Least Knowledge.md> "Law of Demeter or Principle of Least Knowledge"
 [Don't dig too deep in chain calls]: <Don't dig too deep in chain calls.md> "Don't dig too deep in chain calls"
@@ -310,6 +281,7 @@
 [Decoupling]: Decoupling.md "Decoupling"
 [Extensibility]: Extensibility.md "Extensibility"
 [ACID]: ACID.md "ACID"
+[Design an application with no constraints]: <Design an application with no constraints.md> "Design an application with no constraints"
 [Explicit Memory Management]: <Explicit Memory Management.md> "Explicit Memory Management"
 [Implicit Memory Management]: <Implicit Memory Management.md> "Implicit Memory Management"
 [Good Performance]: <Good Performance.md> "Good Performance"
