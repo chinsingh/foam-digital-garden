@@ -88,6 +88,8 @@
 - [[Architecture Style, Architecture Pattern and Design Pattern are just different levels of abstraction]]
 - Design Principles - [[DRY]] | [[SOLID]] | [[Inversion of Control (IoC)]] | [[Do NOT create Dependency(s), especially in a constructor]] | [[Law of Demeter or Principle of Least Knowledge]] | [[Don't dig too deep in chain calls]] | [[a principle is just in principle]]
 
+### Diagrams
+
 ### System Design (High-level)
 
 - [[Scalable]] Systems
