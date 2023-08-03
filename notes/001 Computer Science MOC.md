@@ -205,4 +205,3 @@ Reverse a string in place
 - [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/default.asp) - quick SQL recap
 - [For quick SQL revision](http://w3schools.com/sql/default.asp)
 - [Hussein Nasser - Youtube](https://www.youtube.com/@hnasr)
-
